@@ -73,7 +73,7 @@
   .todo-item.completed {
     text-decoration: line-through 2px var(--main-orange);
     opacity: 0.7;
-=======
+
 :root {
     --main-orange: rgb(255, 136, 0);
   }
@@ -148,5 +148,5 @@
   .todo-item.completed {
     text-decoration: line-through 2px var(--main-orange);
     opacity: 0.7;
->>>>>>> 8ba0576dc1f86d141cf2557ec5e19d39f86ee459
   }
+}
